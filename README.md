@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**anned20/anned20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+### Certified school drop out.
+I dropped out of school when I was 15. The current scholar system was not something that I could spend any more time in. I got a job at a local company which suited me perfectly and gives me a lot of possibilities to expand my knowledge and keep learning.
 
-Here are some ideas to get you started:
+### Working to make the internet a better and more secure place one step at a time.
+I believe web applications are the future and will replace our desktop programs and mobile apps, that’s why they should be usable by everyone and everywhere no matter the device, screen size and speed. While they provide these pros, they should also be secure and privacy oriented.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“Design is not just what it looks like and feels like, design is how it works.” — Steve Jobs
+
+You can reach me via my website at www.bouma.tech.
+
+It's a pleasure to meet you.
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
