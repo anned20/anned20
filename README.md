@@ -18,4 +18,7 @@ If you want to support me or my work, check out [GitHub Sponsors](https://github
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code quality versus time spent](https://bouma.tech/posts/coding-quality-versus-time-spent)
+- [Procrastination](https://bouma.tech/posts/procrastination)
+- [My first post](https://bouma.tech/posts/the-first-post)
 <!-- BLOG-POST-LIST:END -->
