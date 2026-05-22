@@ -1,15 +1,24 @@
 ### Hi there 👋
 
-# About me
-
-### Certified school drop out.
-I dropped out of school when I was 15. The current scholar system was not something that I could spend any more time in. I got a job at a local company which suited me perfectly and gives me a lot of possibilities to expand my knowledge and keep learning.
-
-### Working to make the internet a better and more secure place one step at a time.
-I believe web applications are the future and will replace our desktop programs and mobile apps, that’s why they should be usable by everyone and everywhere no matter the device, screen size and speed. While they provide these pros, they should also be secure and privacy oriented.
-
-“Design is not just what it looks like and feels like, design is how it works.” — Steve Jobs
+```yaml
+name: Anne Douwe Bouma
+from: Fryslân, The Netherlands
+current_jobs:
+  - title: Team Lead Software Development
+    company: Kooi Camera Surveillance
+  - title: Owner, Software Engineer and Consultant
+    company: Bouma Tech
+education: null
+past_jobs:
+  - title: Software Engineer
+    company: Mobilox
+  - title: CTO
+    company: AdCoin
+socials:
+  linkedin: https://www.linkedin.com/in/anne-douwe-bouma/
+```
 
 You can reach me via my website at www.bouma.tech.
 
 It's a pleasure to meet you.
+
